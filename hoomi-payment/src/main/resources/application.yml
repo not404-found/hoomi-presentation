@@ -1,0 +1,35 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /payment
+
+spring:
+  application:
+    name: hoomi-payments-app
+  main:
+    web-application-type: servlet
+info:
+  app:
+    name: Hoomi Payments
+    version: @project.version@
+
+stripe:
+  key:
+    public: ${STRIPE_PUBLIC_KEY}
+    private: ${STRIPE_PRIVATE_KEY}
+
+#actuator
+management:
+  endpoints:
+    web:
+      base-path: /management
+      exposure:
+        include: info, health, logfile, httptrace, loggers
+  endpoint:
+    health:
+      show-details: always
+    logfile:
+      external-file: hoomi-patments-logs/current.log
+  trace:
+    http:
+      include: PRINCIPAL, REQUEST_HEADERS, RESPONSE_HEADERS, TIME_TAKEN
