@@ -8,6 +8,7 @@
 * HLS (https://developer.apple.com/streaming/)
 * Stripe (https://stripe.com/)
 * Cloud AWS (https://aws.amazon.com)
+* Database MYSQL(https://www.mysql.com/)
 
 ## Architecture
 ![](Hoomi-Arch.png)
