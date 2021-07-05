@@ -2,9 +2,12 @@
 ## Used Techs
 * Firebase Firestore (https://firebase.google.com/)
 * RabbitMQ (https://www.rabbitmq.com/)
+* MQTT (https://www.rabbitmq.com/mqtt.html#tls)
 * Gstreamer (https://gstreamer.freedesktop.org/documentation/installing/index.html?gi-language=c)
 * WebRTC (https://webrtc.org/)
+* HLS (https://developer.apple.com/streaming/)
 * Stripe (https://stripe.com/)
+* Cloud AWS (https://aws.amazon.com)
 
 ## Architecture
 ![](Hoomi-Arch.png)
