@@ -12,4 +12,5 @@
 Hoomi functionality (https://drive.google.com/file/d/1ApiReB4zCOtwuysFfSUMREwn2TSeT5x-/view?usp=sharing)
 ## Tech Description Video
 Tech 1 (https://drive.google.com/file/d/19z6ggVE3hcgn5sVH0W99PbIIIukzifHB/view?usp=sharing)
+
 Tech 2 (https://drive.google.com/file/d/18JPZJKzoc9E0jUDXcysBjS-UWZv87FfO/view?usp=sharing)
