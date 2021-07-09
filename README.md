@@ -1,4 +1,4 @@
-# Presentation for Hoomi Project 
+# Presentation for Hoomi Project (WIP)
 ## Used Techs
 * Firebase Firestore (https://firebase.google.com/)
 * RabbitMQ (https://www.rabbitmq.com/)
