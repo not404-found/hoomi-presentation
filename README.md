@@ -11,10 +11,19 @@
 * Database MYSQL(https://www.mysql.com/)
 
 ## Architecture
-![](Hoomi-Arch.png)
+### AWS
+![](aws-diagram.png)
+### WebRTC delivery
+![](webrtc-delivery.png)
+### VOD delivery
+![](vod-delivery.png)
+### CRUD Live Streams
+![](crud-live-stream.png)
+### CRUD Games
+![](crud-games.png)
+
 ## Project Description Video
 Hoomi functionality (https://drive.google.com/file/d/1ApiReB4zCOtwuysFfSUMREwn2TSeT5x-/view?usp=sharing)
 ## Tech Description Video
 Tech 1 (https://drive.google.com/file/d/19z6ggVE3hcgn5sVH0W99PbIIIukzifHB/view?usp=sharing)
-
 Tech 2 (https://drive.google.com/file/d/18JPZJKzoc9E0jUDXcysBjS-UWZv87FfO/view?usp=sharing)
